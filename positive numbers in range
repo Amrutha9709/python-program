@@ -1,0 +1,15 @@
+list1=[12,-7,64,-14]
+for number in list1:
+a=12
+c=5
+d=64
+print(a,c,d)
+
+
+
+list2=[12,14,-95,3]
+for number in list2:
+a=12
+b=14
+d=3
+print(a,b,d)
